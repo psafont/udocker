@@ -13,6 +13,8 @@ Python dependencies are described in the file requirements.txt
 udocker requires either pycurl or the curl executable command,
 to download both the binaries and/or pull containers from repositories.
 
+tar is needed when using `udocker install` to unpackage binaries and libs
+
 ## 2. USER INSTALLATION
 
 ### 2.1. INSTALL LATEST VERSIONS DIRECTLY FROM GITHUB
